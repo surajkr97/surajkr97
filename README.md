@@ -16,6 +16,8 @@
 
 - 💬 Ask me about **Ethical Hacking, Iot and Figma.**
 
+- 📝 I write articles on [www.suraj's/notepad.com](https://surajkr97.hashnode.dev)
+
 - 📫 How to reach me **surajkumar06174@gmail.com**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
