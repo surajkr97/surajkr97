@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my secret project.**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **backend**
 
 - 👯 I’m looking to collaborate on **UI/UX Designs.**
 
