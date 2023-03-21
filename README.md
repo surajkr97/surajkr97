@@ -1,4 +1,4 @@
-<img align="right" width="100%" src="c0d12d04b5e28a5ede32659572830a5f.jpg" alt="coding">
+<!-- <img align="right" width="100%" src="5254830.jpg" alt="coding"> -->
 
 <h1 align="center">Hi 👋, I'm Suraj Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
