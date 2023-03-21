@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suraj Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
+<!-- <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"> -->
+
+<!-- <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.freepik.com/free-vector/cartoon-business-people-meditating-illustration_13454320.htm#query=black%20man%20on%20computer&position=0&from_view=keyword&track=ais](https://img.freepik.com/free-vector/cartoon-business-people-meditating-illustration_23-2148924349.jpg" alt="coding">
+ -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajkr97&label=Profile%20views&color=0e75b6&style=flat" alt="surajkr97" /> </p>
 
