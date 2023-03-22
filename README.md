@@ -1,4 +1,4 @@
-<!-- <img align="right" width="100%" height="400px" src="img/chill_mario_by_pixeljeff1995_ddjk36s-pre.jpg" alt="coding"> -->
+<img align="right" width="100%" height="400px" src="img/chill_mario_by_pixeljeff1995_ddjk36s-pre.jpg" alt="coding">
 
 <h1 align="center">Hi 👋, I'm Suraj Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
