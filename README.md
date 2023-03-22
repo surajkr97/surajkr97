@@ -1,10 +1,10 @@
-<img align="right" width="100%" height="400px" src="img/chill_mario_by_pixeljeff1995_ddjk36s-pre.jpg" alt="coding">
+<!-- <img align="right" width="100%" height="400px" src="img/chill_mario_by_pixeljeff1995_ddjk36s-pre.jpg" alt="coding"> -->
 
 <h1 align="center">Hi 👋, I'm Suraj Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!-- <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"> -->
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
 
-<img align="right" width="400" src="img/AngelicConcreteHypsilophodon.webp" alt="coding">
+<!-- <img align="right" width="400" src="img/AngelicConcreteHypsilophodon.webp" alt="coding"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajkr97&label=Profile%20views&color=0e75b6&style=flat" alt="surajkr97" /> </p>
