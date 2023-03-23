@@ -1,9 +1,9 @@
-<!-- <img align="right" width="100%" height="400px" src="img/chill_mario_by_pixeljeff1995_ddjk36s-pre.jpg" alt="coding"> -->
+<img align="center" src="img/tinywow_chill_mario_by_pixeljeff1995_ddjk36s-pre_17417503.jpg" alt="coding">
 
-<div>
+<!-- <div>
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
-
+ -->
 
 
 <h1 align="center">Hi 👋, I'm Suraj Gupta</h1>
