@@ -1,9 +1,8 @@
 <!-- <img align="center" src="img/tinywow_chill_mario_by_pixeljeff1995_ddjk36s-pre_17417503.jpg" alt="coding"> -->
 
-<div>
-<img align="center" src="https://i.imgur.com/4ASafy0.png">
-</div>
+<!-- <img align="center" src="https://i.imgur.com/4ASafy0.png"> -->
 
+<img align="center" src="https://dropovercl.s3.amazonaws.com/924ce7b1-b03e-4840-a8aa-f9f4ee2b956e/6280f8dc-3afd-40b1-a4cc-660e00d56ced/0009b228-a35a-448a-983d-b47b9c4a02ca.png">
 
 
 <h1 align="center">Hi 👋, I'm Suraj Gupta</h1>
