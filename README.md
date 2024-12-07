@@ -18,15 +18,15 @@
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
 
-- 🔭 I’m currently working on **my secret project.**
+- 🔭 I’m currently working on **my secret project**
 
 - 🌱 I’m currently learning **backend devlopment**
 
-- 👯 I’m looking to collaborate on **UI/UX Designs.**
+- 👯 I’m looking to collaborate on **UI/UX Designs**
 
-- 🤝 I’m looking for help with **some freelancing projects.**
+- 🤝 I’m looking for help with **some freelancing projects**
 
-- 💬 Ask me about **Ethical Hacking, Iot and Figma.**
+- 💬 Ask me about **Ethical Hacking, Iot and Figma**
 
 - 📝 I write articles on [www.suraj's/notepad.com](https://surajkr97.hashnode.dev)
 
