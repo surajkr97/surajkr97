@@ -18,21 +18,21 @@
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
 
-- 🔭 I’m currently working on **my secret project**
+- 🔭 I’m currently working on **my React project.**
 
-- 🌱 I’m currently learning **backend devlopment**
+- 🌱 I’m currently learning **backend devlopment.**
 
-- 👯 I’m looking to collaborate on **UI/UX Designs**
+- 👯 I’m looking to collaborate on **UI/UX Designs.**
 
-- 🤝 I’m looking for help with **some freelancing projects**
+- 🤝 I’m looking for help with **some freelancing projects.**
 
-- 💬 Ask me about **Ethical Hacking, Iot and Figma**
+- 💬 Ask me about **Ethical Hacking, Iot and Figma.**
 
 - 📝 I write articles on [www.suraj's/notepad.com](https://surajkr97.hashnode.dev)
 
 - 📫 How to reach me **surajkr97@icloud.com**
 
-- ⚡ Fun fact **It’s all 0’s and 1’s**
+- ⚡ Fun fact **It’s all 0’s and 1’s.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
