@@ -34,7 +34,7 @@
 
 - ⚡ Fun fact **It’s all 0’s and 1’s.**
 
-<h3 align="left">Retrieve My Career Profile:</h3>
+<h3 align="left">📄 Retrieve My Career Profile:</h3>
 <p align="left">
 <a href="https://drive.google.com/file/d/1kvszSEZG55nijGZvDmgwm6MrNmFVCy2k/view?usp=sharing" target="blank">https://drive.google.com/file/d/1kvszSEZG55nijGZvDmgwm6MrNmFVCy2k/view?usp=sharing</a>
 </p>
