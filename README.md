@@ -18,9 +18,9 @@
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
 
-- 🔭 I’m currently working on **my React project.**
+- 🔭 I’m currently developing **my Startup project.**
 
-- 🌱 I’m currently learning **backend devlopment.**
+- 🌱 I’m currently learning **server-side rendering.**
 
 - 👯 I’m looking to collaborate on **UI/UX Designs.**
 
