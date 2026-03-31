@@ -18,7 +18,7 @@
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
 
-- 🔭 Building **Full stack** systems and **Automation pipelines**.
+- 🔭 Building **Full stack systems** and **Automation pipelines**.
 
 - 🌱 Going deeper into **AI automation** and **Agent workflows**.
 
