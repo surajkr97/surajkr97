@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Suraj Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full stack engineer from India - Building systems, automating workflows, shipping things that work.</h3>
 <!-- <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"> -->
 
 <!-- <img align="right" width="400" src="img/AngelicConcreteHypsilophodon.webp" alt="coding"> -->
