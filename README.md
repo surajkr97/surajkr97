@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Suraj Gupta</h1>
-<h3 align="center">Full stack engineer from India - Building systems, automating workflows, shipping things that work.</h3>
+<h3 align="center">A full stack & AI automation engineer from India.</h3>
 <!-- <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"> -->
 
 <!-- <img align="right" width="400" src="img/AngelicConcreteHypsilophodon.webp" alt="coding"> -->
@@ -18,26 +18,26 @@
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
 
-- 🔭 I’m currently developing **my Startup project.**
+- 🔭 Building **Full stack** systems and **Automation pipelines**.
 
-- 🌱 I’m currently learning **server-side rendering.**
+- 🌱 Going deeper into **AI automation** and **Agent workflows**.
 
-- 👯 I’m looking to collaborate on **UI/UX Designs.**
+- 👯 Open to collaborating on **Backend** or **AI projects**.
 
-- 🤝 I’m looking for help with **some freelancing projects.**
+- 🤝 **Building something** — open to collaborators and feedback.
 
-- 💬 Ask me about **Ethical Hacking, Iot and Figma.**
+- 💬 Ask me about **Ethical Hacking**, **Iot** and **System design**.
 
 - 📝 I write articles on [www.suraj's/notepad.com](https://surajkr97.hashnode.dev)
 
 - 📫 How to reach me **surajkr97@icloud.com**
 
-- ⚡ Fun fact **It’s all 0’s and 1’s.**
+- ⚡ Fun fact **It’s all 0’s and 1’s**.
 
-<h3 align="left">📄 Retrieve My Career Profile:</h3>
+<!-- <h3 align="left">📄 Retrieve My Career Profile:</h3>
 <p align="left">
 <a href="https://drive.google.com/file/d/1K3JgA88F0I6pX4555Zov5u-yKDvL5LZp/view?usp=sharing" target="blank">https://drive.google.com/file/d/1K3JgA88F0I6pX4555Zov5u-yKDvL5LZp/view?usp=sharing</a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -119,6 +119,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajkr97&show_icons=true&locale=en&layout=compact" alt="surajkr97" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajkr97&show_icons=true&locale=en&layout=compact" alt="surajkr97" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajkr97&show_icons=true&locale=en" alt="surajkr97" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajkr97&show_icons=true&locale=en" alt="surajkr97" /></p> -->
