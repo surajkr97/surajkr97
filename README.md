@@ -41,79 +41,60 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
 <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
   </a>
-
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css3" width="40" height="40"/>
   </a>
-  
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
-
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
   </a>
-
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
   </a>
-  
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/>
   </a>
-
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="js_redux" width="40" height="40"/>
   </a>
-
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescriptlang" width="40" height="40"/>
   </a>
-
 <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
   </a>
-
 <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
   </a>
-
 <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" alt="auth0" width="40" height="40"/>
   </a>
-
 <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
   </a>
-
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/godaddy/godaddy-icon.svg" alt="godaddy" width="40" height="40"/>
   </a>
-
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon_aws" width="40" height="40"/>
   </a>
-
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
   </a>
-
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
   </a>
-
 </p>
 
 
